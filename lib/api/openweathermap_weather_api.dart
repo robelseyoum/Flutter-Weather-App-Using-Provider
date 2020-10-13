@@ -7,7 +7,7 @@ import 'package:weather_app/models/location.dart';
 
 class OpenWeatherMapWeatherApi extends WeatherApi {
   static const endPointUrl = 'https://api.openweathermap.org/data/2.5';
-  static const apiKey = "ea752c03cfe172dc8c71e9f1763b3744";
+  static const apiKey = "your api";
   http.Client httpClient;
 
 
